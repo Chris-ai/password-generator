@@ -1,4 +1,4 @@
-# Shortly - URL shortening API
+# Password Generator
 
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). This is project that generates passwords for user based on the selected inclusion options. Page is built with JS framework `Vue.js`, styles are written is `SCSS`. Strength of passwords are checked by javascript library [check-passwrod-strength](https://www.npmjs.com/package/check-password-strength). Page is fully responsive.
 
